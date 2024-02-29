@@ -8,7 +8,7 @@
 bin
 build
 target
-.vscode
+.vscode/*
 dependency-reduced-pom.xml
 *.sublime-*
 /scratch
